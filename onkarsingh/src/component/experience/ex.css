@@ -1,0 +1,18 @@
+.experience-container {
+  margin-top: 20px;
+}
+
+.experience-item {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.experience-item h3 {
+  color: #333;
+}
+
+.experience-item p {
+  color: #666;
+}
