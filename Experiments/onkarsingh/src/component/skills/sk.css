@@ -1,0 +1,29 @@
+.skills-container {
+  margin-top: 20px;
+}
+
+.skills-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.skills-container .list-group-item {
+  background-color: #f8f9fa;
+  border-color: #dee2e6;
+  color: #495057;
+}
+
+.skills-container .list-group-item:first-child {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.skills-container .list-group-item:last-child {
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.skills-container h2 {
+  text-align: center;
+  margin-bottom: 20px; /* Add margin-bottom for spacing */
+}

@@ -1,0 +1,23 @@
+.aoi-container {
+  margin-top: 20px;
+}
+
+.aoi-list {
+  font-size: 18px;
+}
+
+.aoi-list .list-group-item {
+  background-color: #f8f9fa;
+  border-color: #dee2e6;
+  color: #495057;
+}
+
+.aoi-list .list-group-item:first-child {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.aoi-list .list-group-item:last-child {
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
